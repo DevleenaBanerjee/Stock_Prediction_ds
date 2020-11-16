@@ -21,7 +21,7 @@ from scipy.special import inv_boxcox
 
 
 app = dash.Dash(__name__, external_stylesheets='dbc.themes.CYBORG')
-server=app.server
+server = app.server
 
 #Dash Layout with core component
 
