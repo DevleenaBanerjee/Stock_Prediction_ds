@@ -1,0 +1,51 @@
+.gitignore
+.travis.yml
+LICENSE
+MANIFEST.in
+README.md
+README.rst
+dev-requirements.txt
+setup.cfg
+setup.py
+tox.ini
+docs/Makefile
+docs/advanced.rst
+docs/api.rst
+docs/best_practices.rst
+docs/changelog.rst
+docs/conf.py
+docs/contributors.rst
+docs/index.rst
+docs/license.rst
+docs/quickstart.rst
+docs/registry.rst
+docs/roadmap.rst
+docs/tutorial.rst
+docs/_static/img/logo.png
+examples/quickstart.py
+examples/tutorial/__main__.py
+examples/tutorial/bollinger.py
+examples/tutorial/eventstudy.py
+prophet/.gitignore
+prophet/__init__.py
+prophet/analyze.py
+prophet/app.py
+prophet/backtest.py
+prophet/data.py
+prophet/exceptions.py
+prophet/orders.py
+prophet/portfolio.py
+prophet.egg-info/PKG-INFO
+prophet.egg-info/SOURCES.txt
+prophet.egg-info/dependency_links.txt
+prophet.egg-info/requires.txt
+prophet.egg-info/top_level.txt
+prophet/utils/__init__.py
+prophet/utils/formatters.py
+prophet/utils/tradingcalendar.py
+tests/integration/README.md
+tests/integration/test_examples.py
+tests/integration/data/AAPL-2010-01-04 00-00-00+00-00-2014-11-21 00-00-00.csv
+tests/integration/data/AAPL-2014-11-10 00-00-00+00-00-2014-11-10 00-00-00.csv
+tests/integration/data/XOM-2010-01-04 00-00-00+00-00-2014-11-21 00-00-00.csv
+tests/integration/data/XOM-2014-11-10 00-00-00+00-00-2014-11-10 00-00-00.csv

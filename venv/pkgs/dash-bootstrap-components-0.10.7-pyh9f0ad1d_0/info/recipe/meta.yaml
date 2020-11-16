@@ -1,0 +1,84 @@
+# This file created by conda-build 3.20.3
+# meta.yaml template originally from:
+# /home/conda/recipe_root, last modified Sun Oct  4 21:03:28 2020
+# ------------------------------------------------
+
+package:
+    name: dash-bootstrap-components
+    version: 0.10.7
+source:
+    sha256: 19c8c7d0d390badf72ef901da46e8c3270e204e8f8e9ab7997de29aeb39ad7b9
+    url: https://pypi.io/packages/source/d/dash-bootstrap-components/dash-bootstrap-components-0.10.7.tar.gz
+build:
+    noarch: python
+    number: '0'
+    script: /home/conda/feedstock_root/build_artifacts/dash-bootstrap-components_1601845474246/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place/bin/python
+        -m pip install . --no-deps -vv
+    string: pyh9f0ad1d_0
+requirements:
+    host:
+        - _libgcc_mutex 0.1 conda_forge
+        - _openmp_mutex 4.5 1_gnu
+        - brotlipy 0.7.0 py36h8c4c3a4_1000
+        - ca-certificates 2020.6.20 hecda079_0
+        - certifi 2020.6.20 py36h9f0ad1d_0
+        - cffi 1.14.3 py36h0ff685e_0
+        - chardet 3.0.4 py36h9f0ad1d_1007
+        - cryptography 3.1.1 py36h45558ae_0
+        - docutils 0.16 py36h9f0ad1d_1
+        - flit 3.0.0 py_0
+        - flit-core 3.0.0 py_0
+        - idna 2.10 pyh9f0ad1d_0
+        - ld_impl_linux-64 2.35 h769bd43_9
+        - libffi 3.2.1 he1b5a44_1007
+        - libgcc-ng 9.3.0 h5dbcf3e_17
+        - libgomp 9.3.0 h5dbcf3e_17
+        - libstdcxx-ng 9.3.0 h2ae2ef3_17
+        - ncurses 6.2 he1b5a44_1
+        - openssl 1.1.1h h516909a_0
+        - pip 20.2.3 py_0
+        - pycparser 2.20 pyh9f0ad1d_2
+        - pyopenssl 19.1.0 py_1
+        - pysocks 1.7.1 py36h9f0ad1d_1
+        - python 3.6.11 h4d41432_2_cpython
+        - python_abi 3.6 1_cp36m
+        - pytoml 0.1.21 py_0
+        - readline 8.0 he28a2e2_2
+        - requests 2.24.0 pyh9f0ad1d_0
+        - requests_download 0.1.2 py_1
+        - setuptools 49.6.0 py36h9f0ad1d_1
+        - six 1.15.0 pyh9f0ad1d_0
+        - sqlite 3.33.0 h4cf870e_0
+        - tk 8.6.10 hed695b0_0
+        - urllib3 1.25.10 py_0
+        - wheel 0.35.1 pyh9f0ad1d_0
+        - xz 5.2.5 h516909a_1
+        - zlib 1.2.11 h516909a_1009
+    run:
+        - dash >=1.9.0
+        - python
+test:
+    imports:
+        - dash_bootstrap_components
+about:
+    description: 'dash-bootstrap-components is a library of Bootstrap components for
+        use with Plotly Dash,
+
+        that makes it easier to build consistently styled Dash apps with complex,
+        responsive layouts.
+
+        '
+    dev_url: https://github.com/facultyai/dash-bootstrap-components
+    doc_url: https://dash-bootstrap-components.opensource.faculty.ai/
+    home: https://dash-bootstrap-components.opensource.faculty.ai/
+    license: MIT
+    license_family: Apache
+    license_file: LICENSE.txt
+    summary: Bootstrap components for Plotly Dash
+extra:
+    copy_test_source_files: true
+    final: true
+    recipe-maintainers:
+        - holtgrewe
+        - pbugnion
+        - tcbegley

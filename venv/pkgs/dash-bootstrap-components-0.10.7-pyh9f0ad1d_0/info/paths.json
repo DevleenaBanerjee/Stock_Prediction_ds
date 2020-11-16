@@ -1,0 +1,461 @@
+{
+  "paths": [
+    {
+      "_path": "site-packages/dash_bootstrap_components-0.10.7.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components-0.10.7.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "c8d644a15d4fa1718b885a44d0b19e87803a0858af85bdbe35931b8a2fdf2c1f",
+      "size_in_bytes": 10706
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components-0.10.7.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "b65e59c35cc563a801d9eb35752b7fcf95c64f34b26f2e4485a99803d868c316",
+      "size_in_bytes": 5167
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components-0.10.7.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "e3b5571c956e5df6ed47f67fd04716a37dc87c3a1e8d12ea8f72d88b5fbfbde7",
+      "size_in_bytes": 13202
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components-0.10.7.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components-0.10.7.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "34baa6b31f99159ea00dabd8821da81f465237e2919a971d1172190e7632f4f8",
+      "size_in_bytes": 99
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components-0.10.7.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "823ddb68da4a9ed7ae59512852fa52ffb5e10b1c55931c328bc43472d4bcc366",
+      "size_in_bytes": 121
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "29851d0626a1bd6185996739fae5b6d1f4555c7fd69d15bc7ab7bbf5b0a6a487",
+      "size_in_bytes": 2491
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Alert.py",
+      "path_type": "hardlink",
+      "sha256": "b7e2ddc73200189f1f28dd7518cffb5ac77e135ed71ef897d31206e4275905d1",
+      "size_in_bytes": 3344
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Badge.py",
+      "path_type": "hardlink",
+      "sha256": "39d6306cbd865de91ac30b799b497f0d9e51ddbf9bbfc894f09df6e60fd6d2ec",
+      "size_in_bytes": 3926
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Button.py",
+      "path_type": "hardlink",
+      "sha256": "18ebf36bcc506af20519287df8217602eea0a5a59d9b7060f13b57a7a46162db",
+      "size_in_bytes": 4866
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/ButtonGroup.py",
+      "path_type": "hardlink",
+      "sha256": "d9ac6249a26cfe1ab365eea9d58ab129ff8f907ce538b80594aeefe507a77e1b",
+      "size_in_bytes": 2695
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Card.py",
+      "path_type": "hardlink",
+      "sha256": "557dc7df1e998bf34d22378660ffaa0d77d1c4c12182ce65a47c12764c43511c",
+      "size_in_bytes": 3233
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/CardBody.py",
+      "path_type": "hardlink",
+      "sha256": "9d4c7297091bc4f40eceb2f4df99587f8f9e435f3b2a2e948c602db0f4385c87",
+      "size_in_bytes": 2558
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/CardColumns.py",
+      "path_type": "hardlink",
+      "sha256": "d776568a0914f0451ac6b4d66adc1e9defa970420844667301779fe651b39b5b",
+      "size_in_bytes": 2578
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/CardDeck.py",
+      "path_type": "hardlink",
+      "sha256": "70d19e7b55f5597eaa0e503c33d9e73db6d3806a01f966d6817ee1a4dfee835c",
+      "size_in_bytes": 2543
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/CardFooter.py",
+      "path_type": "hardlink",
+      "sha256": "0a82fcb5f2596bbd66222bbf3b2872c89bd8dd07e24f4e53a9144766d390aea6",
+      "size_in_bytes": 2545
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/CardGroup.py",
+      "path_type": "hardlink",
+      "sha256": "bb57ea244a69c2f445bfbbb0335c1a9aa0e01853ef5d2a3c7fcf1da80602b5cb",
+      "size_in_bytes": 2582
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/CardHeader.py",
+      "path_type": "hardlink",
+      "sha256": "805eaf09dcb2d77d8ffd6f8ed4bd28864b2e4623e5da51f3b64dbc5d0fd6831f",
+      "size_in_bytes": 2545
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/CardImg.py",
+      "path_type": "hardlink",
+      "sha256": "5409b18df13e19a7af272cd36a3bb290f0b59f461c19f3e52efb708de274941a",
+      "size_in_bytes": 3291
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/CardImgOverlay.py",
+      "path_type": "hardlink",
+      "sha256": "00955581b86b8d37c98ef7ef6cbeb04e6c30b8407d6bba79b9b9c1a6fdf05ace",
+      "size_in_bytes": 2606
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/CardLink.py",
+      "path_type": "hardlink",
+      "sha256": "c8c457229e770b5c1641d5bd4c2b3e8ff8bfb449657a8aee67a8296ec1accb92",
+      "size_in_bytes": 3598
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Checkbox.py",
+      "path_type": "hardlink",
+      "sha256": "f7e415532793afc8cd565310ec2051fffe59429e6b830899361e9dee27fdef79",
+      "size_in_bytes": 3641
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Checklist.py",
+      "path_type": "hardlink",
+      "sha256": "1fd566814394b9a71a48598e8d8c0d27900592a910b8fe989ec9221ab3726cee",
+      "size_in_bytes": 5647
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Col.py",
+      "path_type": "hardlink",
+      "sha256": "c7aeff6135a026eed2cd97018189aca8bc56eece25f04bc5eba69afd2c753390",
+      "size_in_bytes": 4548
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Collapse.py",
+      "path_type": "hardlink",
+      "sha256": "356e094995ebbad46a7c2684ad96dea4f0428ccd3300714aa2725bff76f58ae5",
+      "size_in_bytes": 2893
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Container.py",
+      "path_type": "hardlink",
+      "sha256": "36e0fe713552925a95967148b7700e2464c15298aab0b0cec911fcfe05dab8ed",
+      "size_in_bytes": 2840
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/DropdownMenu.py",
+      "path_type": "hardlink",
+      "sha256": "73a2ab383c0e73617d9965f672670b4b7cf3dc7c381ee079e733c5295d3f3bd4",
+      "size_in_bytes": 4816
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/DropdownMenuItem.py",
+      "path_type": "hardlink",
+      "sha256": "e794341684d266ec5e726f56fd0fa3117d748f046195655ea7131d3abcbefe03",
+      "size_in_bytes": 4263
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Fade.py",
+      "path_type": "hardlink",
+      "sha256": "6a4e7d5254dd3b86f5035c207e1766b22fa9a96229d2b57c9d0f7543cb3933b7",
+      "size_in_bytes": 3987
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Form.py",
+      "path_type": "hardlink",
+      "sha256": "2f6a257365a06df384f735f50360ab121f5ddacef526910633a1264c6050f77a",
+      "size_in_bytes": 3362
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/FormFeedback.py",
+      "path_type": "hardlink",
+      "sha256": "1fe2af44e44a1f17bff4c962565ff3f6ef28573945996b35350a4c91bbfb82e4",
+      "size_in_bytes": 2875
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/FormGroup.py",
+      "path_type": "hardlink",
+      "sha256": "247e9ac09221f62affab5a3f5153ef8d0fcf0b56793ac16a4911f08ea5472092",
+      "size_in_bytes": 3209
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/FormText.py",
+      "path_type": "hardlink",
+      "sha256": "c7e06a6a5206b4b96c0b9b43702f5e518c5f37c64c24c2897cb6b391ead17004",
+      "size_in_bytes": 2613
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Input.py",
+      "path_type": "hardlink",
+      "sha256": "f7409430e70d3c4fbb588544b82076585efe0637bcd01322e35ba3dbf3478c2d",
+      "size_in_bytes": 11150
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/InputGroup.py",
+      "path_type": "hardlink",
+      "sha256": "fbc8d15c299b07cfdbfbfa87b32c0c344d1d63d6aeb16d269a630922a622a03f",
+      "size_in_bytes": 2614
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/InputGroupAddon.py",
+      "path_type": "hardlink",
+      "sha256": "ae90eb99cfc8bd701737984a56be32fbc2658e1d5675d2928095d1be8c257892",
+      "size_in_bytes": 2679
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/InputGroupText.py",
+      "path_type": "hardlink",
+      "sha256": "85405801e12c2180c81e7ca2990987ee980372323442f47417ebdbc24a4b5c41",
+      "size_in_bytes": 2428
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Jumbotron.py",
+      "path_type": "hardlink",
+      "sha256": "ed17ced78020c3838edd501c7b9bf85e1f396a5c76bfe4689eb0ceba107c64b5",
+      "size_in_bytes": 2764
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Label.py",
+      "path_type": "hardlink",
+      "sha256": "aff043e63689e613b7e20da51492b6717c3e52bebe2f780d3ab8abead400a669",
+      "size_in_bytes": 4706
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/ListGroup.py",
+      "path_type": "hardlink",
+      "sha256": "a85312a05b3e23b9bda47250339d82082e982b6da04eeabcfbdab6463e5bc35a",
+      "size_in_bytes": 3291
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/ListGroupItem.py",
+      "path_type": "hardlink",
+      "sha256": "8d69ac6ae7598115ccaa8ce914c1e1b563bb39f6b4383c953b254f28250db1c8",
+      "size_in_bytes": 4195
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/ListGroupItemHeading.py",
+      "path_type": "hardlink",
+      "sha256": "466053044e9b867fec575d0bf6c5eef0058923e5bd35ab008bfe17921717febb",
+      "size_in_bytes": 2560
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/ListGroupItemText.py",
+      "path_type": "hardlink",
+      "sha256": "c346daa30f77bc88194dc58ec9888ab7ea6542e932b0c3f5ec078285068793f8",
+      "size_in_bytes": 2759
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Modal.py",
+      "path_type": "hardlink",
+      "sha256": "f4a960745468f542af596bb5a67eb9dab011c325f68549542cfd0bc9ae660eff",
+      "size_in_bytes": 3871
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/ModalBody.py",
+      "path_type": "hardlink",
+      "sha256": "c1ce1ed87400ed4b82fc1ad34b588e306b0e511ecbcbfc8f754865a6153c321c",
+      "size_in_bytes": 1786
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/ModalFooter.py",
+      "path_type": "hardlink",
+      "sha256": "2010b72c336e772923f87350eda522ad40a9b8a44387e1a57e850f7c867791e3",
+      "size_in_bytes": 1735
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/ModalHeader.py",
+      "path_type": "hardlink",
+      "sha256": "424c5e73adac36eadda3ae6c84dd5533533413e5cbde915b1d02dcc3cc18f47e",
+      "size_in_bytes": 1735
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Nav.py",
+      "path_type": "hardlink",
+      "sha256": "f69447f026146fe0b115a104baee97dac48181ec82b9ca7c2ac029a1c666ffc6",
+      "size_in_bytes": 3840
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/NavItem.py",
+      "path_type": "hardlink",
+      "sha256": "4c35e18d6dff18e6e8a7db52b466909f63c3874f30180a268c0e3726ea60282b",
+      "size_in_bytes": 2499
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/NavLink.py",
+      "path_type": "hardlink",
+      "sha256": "b760bf01ce539f84ee95e5be8410416867010b335ff76cc6bc93c817cd749ba3",
+      "size_in_bytes": 3766
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Navbar.py",
+      "path_type": "hardlink",
+      "sha256": "8e5f4b4e585dc2a4f9699a3a2e510ab44aadab60a058db8b310f9b8998055a9b",
+      "size_in_bytes": 4069
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/NavbarBrand.py",
+      "path_type": "hardlink",
+      "sha256": "00b327d35e9ad6a93cb36aaeed421201699608702690ca5d9119554050f7dfc4",
+      "size_in_bytes": 2936
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/NavbarSimple.py",
+      "path_type": "hardlink",
+      "sha256": "aaccadbca80d93c9741dd54484ba8d86973f940610b6061bf3639cbb499aeb28",
+      "size_in_bytes": 5110
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/NavbarToggler.py",
+      "path_type": "hardlink",
+      "sha256": "8727330ba10756ebc410ef8c66d81eb814867622451998a179f14be1e9c771e8",
+      "size_in_bytes": 3037
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Popover.py",
+      "path_type": "hardlink",
+      "sha256": "7ee6b1968a86b8e5d39779ea635608eb46825f61cbae77f744c7ddb45def1d06",
+      "size_in_bytes": 4134
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/PopoverBody.py",
+      "path_type": "hardlink",
+      "sha256": "50dcfe635b5d1dd016cd9a6b9c3c3dd1918ef183e58a5b22bf2bd12eb4b51202",
+      "size_in_bytes": 2559
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/PopoverHeader.py",
+      "path_type": "hardlink",
+      "sha256": "c948b986d7755e23c18c559dac785534719b21d1898c74b49f9bedc787958145",
+      "size_in_bytes": 2557
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Progress.py",
+      "path_type": "hardlink",
+      "sha256": "a62fe552a7a62762a0e6c83fc925ec03b39a6100b49999827f8b8b73a6e61e51",
+      "size_in_bytes": 3760
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/RadioButton.py",
+      "path_type": "hardlink",
+      "sha256": "ae2d3d15ebacd18262369b3ff79c1f57ee395e54b43c8ee6e2bdedf84182585f",
+      "size_in_bytes": 3662
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/RadioItems.py",
+      "path_type": "hardlink",
+      "sha256": "13dbd285c3c982bb3195df3f947c340ef4683347ce20bc58567b9ad25e652593",
+      "size_in_bytes": 5340
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Row.py",
+      "path_type": "hardlink",
+      "sha256": "b13a7493cd26a2950a16f777318ba7acdabecbd36a49398f8122e6aeb4c6b452",
+      "size_in_bytes": 3508
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Select.py",
+      "path_type": "hardlink",
+      "sha256": "e1764aa3c732484fc7c6f42f9a0c2b099e1ef7c864192b5aac556f2ab8178902",
+      "size_in_bytes": 4103
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Spinner.py",
+      "path_type": "hardlink",
+      "sha256": "39562b547c22213ef4f732056e16a6689640cea487c8baec1173d4f50b12dde1",
+      "size_in_bytes": 3088
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Tab.py",
+      "path_type": "hardlink",
+      "sha256": "913e03bacaef8955990a4d5ff073ae5f235a479c16b08b391b5a8b575efef07f",
+      "size_in_bytes": 3952
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Table.py",
+      "path_type": "hardlink",
+      "sha256": "8b05d87d9247e53f5a486b2395566b9e64323a116663cbe4456b5c31a9dfdf36",
+      "size_in_bytes": 3824
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Tabs.py",
+      "path_type": "hardlink",
+      "sha256": "d72cedd8764f064a0e2bd750a1f4c0c85e051a3c1fb14d95c953db7e2f732c32",
+      "size_in_bytes": 4054
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Textarea.py",
+      "path_type": "hardlink",
+      "sha256": "337955251a808e700770737e7487750e3a1e058e5954b1644f82d1f7338e96bc",
+      "size_in_bytes": 8930
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Toast.py",
+      "path_type": "hardlink",
+      "sha256": "091e345133f60c4033dea3d1a38335086be3daec646de3eb90cb4106b0c8c19d",
+      "size_in_bytes": 4585
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/Tooltip.py",
+      "path_type": "hardlink",
+      "sha256": "e27065a0b5bb964748aa92d0efe875931fb43208b8f6231f231737dc607ed217",
+      "size_in_bytes": 4332
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/__init__.py",
+      "path_type": "hardlink",
+      "sha256": "241fc0254c8ece38e6b1883068fbfec7b2b545f0c5242450280ed4c299e1ab48",
+      "size_in_bytes": 3053
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/dash_bootstrap_components.min.js",
+      "path_type": "hardlink",
+      "sha256": "bd45c944c99835fbbb7bf2143a1c887812ad8b4ab3a42450c655be2f2c9a8352",
+      "size_in_bytes": 242627
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/metadata.json",
+      "path_type": "hardlink",
+      "sha256": "4c478df61291f82905885a77f897a2a8468011f7f2e60f1cfd397ed5165fbfe1",
+      "size_in_bytes": 253628
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_components/package.json",
+      "path_type": "hardlink",
+      "sha256": "aa79a203b1cca10887e6211856ccd40aaf4cac5afb21f37b6fdd9824b22ed55e",
+      "size_in_bytes": 2794
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/_table.py",
+      "path_type": "hardlink",
+      "sha256": "88fca1cbcfeab5049810750c3bf41f0f6cc6f6aae1ab565228d986d236b4b1f0",
+      "size_in_bytes": 2804
+    },
+    {
+      "_path": "site-packages/dash_bootstrap_components/themes.py",
+      "path_type": "hardlink",
+      "sha256": "f34ebc8b0396aec59982200697252f61c4f981909314ea22d18326d4ec1bc4ba",
+      "size_in_bytes": 1428
+    }
+  ],
+  "paths_version": 1
+}

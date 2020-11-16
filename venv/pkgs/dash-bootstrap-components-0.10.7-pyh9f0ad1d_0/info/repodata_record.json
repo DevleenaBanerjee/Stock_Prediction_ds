@@ -1,0 +1,25 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "dash >=1.9.0",
+    "python"
+  ],
+  "features": "",
+  "fn": "dash-bootstrap-components-0.10.7-pyh9f0ad1d_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "Apache",
+  "md5": "b162f6b0a12d4366d74a354134dd2ebb",
+  "name": "dash-bootstrap-components",
+  "noarch": "python",
+  "package_type": "noarch_python",
+  "sha256": "eea06de908a2c32bb3e8073072472fcf191d097a4583316ed63b7e0225fba8ef",
+  "size": 94599,
+  "subdir": "noarch",
+  "timestamp": 1601845607467,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/dash-bootstrap-components-0.10.7-pyh9f0ad1d_0.tar.bz2",
+  "version": "0.10.7"
+}
