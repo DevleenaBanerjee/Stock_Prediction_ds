@@ -167,8 +167,7 @@ def update_graph(input_value):
     Output ('forecast_graph', 'figure'),
     [Input('selectstock','value')]
     )
-
-    #def update_graph(input_value):
+def update_graph(input_value):
     #start = dt.datetime(2015,1,1)
     #end=pd.to_datetime(dt.datetime.today().strftime("%Y,%m,%d"))
     #global stk_data
