@@ -138,9 +138,9 @@ def get_data(value):
 def update_graph(input_value):
 
 
-    df=get_data(input_value)
+    #df=get_data(input_value)
 
-    #df=pd.read_csv("{}.csv".format(input_value))
+    df=pd.read_csv("{}.csv".format(input_value))
     fig1 = go.Figure()
 
     fig1.update_layout(
@@ -168,7 +168,7 @@ def update_graph(input_value):
     [Input('selectstock','value')]
     )
 
-def update_graph(input_value):
+    #def update_graph(input_value):
     #start = dt.datetime(2015,1,1)
     #end=pd.to_datetime(dt.datetime.today().strftime("%Y,%m,%d"))
     #global stk_data
@@ -176,7 +176,8 @@ def update_graph(input_value):
     #stk_data = pd.read_csv('{}.csv'.format(input_value))
     #stk_data.reset_index(inplace=True)
 
-    df=get_data(input_value)
+    #df=get_data(input_value)
+    df=pd.read_csv("{}.csv".format(input_value))
     df['ds'] = df['Date']
     df['y'] = df['Close']
     df['y'], lam = boxcox(df['Close'])
